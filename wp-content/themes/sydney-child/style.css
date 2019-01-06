@@ -1,0 +1,64 @@
+/*
+Theme Name: sydney-child
+Description: Theme enfant du theme sydney
+Author: Seb - Golden Lodges
+Template: sydney 
+Version: 0.1.0
+*/
+
+.site-logo {
+        max-height: 100px;
+}
+
+#mainnav ul li a:focus, #mainnav ul li a:hover {
+	color: #efd807 !important;
+} 
+
+.text-slider .maintitle, .text-slider .subtitle {
+        text-shadow: 5px 5px 3px rgba(0, 0, 0, 0.4);
+}
+
+.hentry .title-post {
+	font-size: 32px;
+}
+
+h2.title-post {
+	text-align: center;
+}
+
+.entry-content p, .entry-content div, .entry-post p, .entry-post div {
+	text-align: justify !important;
+}
+
+.page-template-default .content-area {
+    width: 75% !important;
+	max-width: 75% !important;
+	margin: 0 auto !important;
+	float: none !important;
+}
+
+.footer-widgets {
+	padding: 50px 0;
+}
+
+.posts-layout .entry-thumb {
+	height: 175px;
+}
+
+.posts-layout .size-sydney-small-thumb {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.acf-fields {
+	margin-top:50px;
+}
+
+.chalets-infos {
+	display: inline-block;
+    min-width: 25%;
+    max-width: 30%;
+    vertical-align : top;
+    margin-right: 50px;
+}

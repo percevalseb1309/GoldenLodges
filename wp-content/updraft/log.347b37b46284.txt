@@ -1,0 +1,220 @@
+0000.000 (0) Opened log file at time: Mon, 31 Dec 2018 12:38:06 +0000 on https://golden-lodges.000webhostapp.com
+0000.014 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.0 WP: 4.7.12 PHP: 7.1.25 (apache2handler, Linux 66352.us-imm-node1b.000webhost.io 3.10.0-957.1.3.el7.x86_64 #1 SMP Thu Nov 29 14:49:43 UTC 2018 x86_64) MySQL: 10.1.31-MariaDB WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 32M | 8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.020 (0) Free space on disk containing Updraft's temporary directory: 63535.4 MB
+0000.028 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.039 (0) Semaphore (fd, wp_options) being initialised
+0000.075 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.092 (0) Set semaphore last lock (fd) time to 2018-12-31 12:38:06
+0000.110 (0) Semaphore lock (fd) complete
+0000.517 (0) Backup run: resumption=0, nonce=347b37b46284, file_nonce=347b37b46284 begun at=1546259886 (0s ago), job type=backup
+0000.522 (0) Scheduling a resumption (1) after 300 seconds (1546260186) in case this run gets aborted
+0000.536 (0) Checking if we have a zip executable available
+0000.542 (0) Creation of backups of directories: beginning
+0000.557 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.714 (0) Total entities for the zip file: 320 directories, 2025 files (0 skipped as non-modified), 32.6 MB
+0002.760 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0002.856 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 100 files added (on-disk size: 58.2 KB)
+0002.940 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 200 files added (on-disk size: 58.2 KB)
+0002.998 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 300 files added (on-disk size: 58.2 KB)
+0003.373 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 400 files added (on-disk size: 58.2 KB)
+0003.451 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 500 files added (on-disk size: 58.2 KB)
+0003.455 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.5 MB, 2025 files batched, 501 (502) added so far); re-opening (prior size: 58.2 KB)
+0004.452 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 600 files added (on-disk size: 3856.4 KB)
+0004.512 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 700 files added (on-disk size: 3856.4 KB)
+0004.596 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 800 files added (on-disk size: 3856.4 KB)
+0004.997 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 900 files added (on-disk size: 3856.4 KB)
+0005.072 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1000 files added (on-disk size: 3856.4 KB)
+0005.077 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.8 MB, 2025 files batched, 501 (1003) added so far); re-opening (prior size: 3856.4 KB)
+0007.123 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1100 files added (on-disk size: 9206.6 KB)
+0007.214 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1200 files added (on-disk size: 9206.6 KB)
+0007.676 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1300 files added (on-disk size: 9206.6 KB)
+0007.772 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1400 files added (on-disk size: 9206.6 KB)
+0008.231 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1500 files added (on-disk size: 9206.6 KB)
+0008.239 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 2025 files batched, 501 (1504) added so far); re-opening (prior size: 9206.6 KB)
+0008.841 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1600 files added (on-disk size: 9900.3 KB)
+0008.939 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1700 files added (on-disk size: 9900.3 KB)
+0009.370 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1800 files added (on-disk size: 9900.3 KB)
+0009.463 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 1900 files added (on-disk size: 9900.3 KB)
+0009.891 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip.tmp: 2000 files added (on-disk size: 9900.3 KB)
+0009.898 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 MB, 2025 files batched, 501 (2005) added so far); re-opening (prior size: 9900.3 KB)
+0010.987 (0) Created plugins zip (0) - 11019.8 KB in 10.4 s (1057.2 KB/s) (sha1: f4d25beb7faa02fc6ab522c3fd893d7680505c5f, sha256: 62df43e394f8cb08838f9aedb9d2ef1004e5aafa928b9953157eb104336b6e02)
+0010.993 (0) Beginning creation of dump of themes (split every: 400 MB)
+0011.397 (0) Total entities for the zip file: 96 directories, 549 files (0 skipped as non-modified), 16 MB
+0011.501 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.580 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.638 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.229 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0012.294 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0012.298 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.1 MB, 549 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0013.915 (0) Created themes zip (0) - 11061.4 KB in 2.9 s (3791.5 KB/s) (sha1: 3f3eb3b442d033c1214533f2f2f220a4212d3d35, sha256: 3c1177855a1eb52b49dffe948422682005863c98dd56d669263f09da22fd1523)
+0013.925 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.928 (0) Looking for candidates to backup in: /storage/ssd1/205/1092205/public_html/wp-content/uploads
+0013.937 (0) finding files: 2017: adding to list (1)
+0013.943 (0) finding files: 2018: adding to list (2)
+0013.946 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0014.105 (0) Total entities for the zip file: 5 directories, 241 files (0 skipped as non-modified), 12.7 MB
+0014.527 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.582 (0) Zip: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.198 (0) Created uploads zip (0) - 13093.5 KB in 1.2 s (10507.7 KB/s) (sha1: 6187dfcd97e7c10047387089f1b11bd5e34a3f63, sha256: 559ede17e249085754ae226cab0b14fbe5b2d71d252f99eea9c14814f205cadc)
+0015.203 (0) Beginning backup of other directories found in the content directory (index: 0)
+0015.225 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0015.602 (0) Looking for candidates to backup in: /storage/ssd1/205/1092205/public_html/wp-content
+0015.621 (0) finding files: hostinger-page-cache: adding to list (1)
+0015.641 (0) finding files: languages: adding to list (2)
+0015.645 (0) finding files: mu-plugins: adding to list (3)
+0015.665 (0) finding files: plugins: skipping: this is the plugins directory
+0015.669 (0) finding files: themes: skipping: this is the themes directory
+0015.670 (0) finding files: upgrade: skipping: excluded by options
+0015.691 (0) finding files: uploads: skipping: this is the uploads directory
+0015.694 (0) finding files: .hf: adding to list (4)
+0015.697 (0) finding files: index.php: adding to list (5)
+0015.701 (0) finding files: updraft: skipping: this is the updraft directory
+0015.728 (0) Total entities for the zip file: 5 directories, 28 files (0 skipped as non-modified), 2.4 MB
+0016.191 (0) Created others zip (0) - 685.3 KB in 0.5 s (1414.7 KB/s) (sha1: a14b88314a9008e5653e52b59d1f0a8bd095ec84, sha256: 6b4e7bd3d4b0f6bae98dd11e43cf2dc2a9c37086574ed12b88dea98da32e37c3)
+0016.223 (0) Saving backup status to database (elements: 8)
+0016.236 (0) Beginning creation of database dump (WordPress DB)
+0016.258 (0) Table wp_options: Total expected rows (approximate): 250
+0016.718 (0) Table wp_options: Total rows added: 251 in 0.46 seconds
+0016.725 (0) Table wp_options: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_options.table.gz - 121.1 KB)
+0016.747 (0) Table wp_users: Total expected rows (approximate): 4
+0016.798 (0) Table wp_users: Total rows added: 4 in 0.05 seconds
+0016.800 (0) Table wp_users: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_users.table.gz - 0.8 KB)
+0016.842 (0) Table wp_usermeta: Total expected rows (approximate): 69
+0016.878 (0) Table wp_usermeta: Total rows added: 70 in 0.03 seconds
+0016.881 (0) Table wp_usermeta: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_usermeta.table.gz - 1.8 KB)
+0016.915 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0017.294 (0) Table wp_commentmeta: Total rows added: 0 in 0.34 seconds
+0017.301 (0) Table wp_commentmeta: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0017.321 (0) Table wp_comments: Total expected rows (approximate): 0
+0017.332 (0) Table wp_comments: Total rows added: 0 in 0.01 seconds
+0017.334 (0) Table wp_comments: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_comments.table.gz - 0.5 KB)
+0017.353 (0) Table wp_links: Total expected rows (approximate): 0
+0017.367 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0017.369 (0) Table wp_links: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_links.table.gz - 0.4 KB)
+0017.385 (0) Table wp_postmeta: Total expected rows (approximate): 499
+0017.425 (0) Table wp_postmeta: Total rows added: 499 in 0.04 seconds
+0017.445 (0) Table wp_postmeta: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_postmeta.table.gz - 11.6 KB)
+0017.457 (0) Table wp_posts: Total expected rows (approximate): 103
+0017.517 (0) Table wp_posts: Total rows added: 103 in 0.05 seconds
+0017.873 (0) Table wp_posts: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_posts.table.gz - 12.4 KB)
+0017.939 (0) Table wp_term_relationships: Total expected rows (approximate): 15
+0017.991 (0) Table wp_term_relationships: Total rows added: 15 in 0.05 seconds
+0017.993 (0) Table wp_term_relationships: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0018.022 (0) Table wp_term_taxonomy: Total expected rows (approximate): 4
+0018.032 (0) Table wp_term_taxonomy: Total rows added: 4 in 0.01 seconds
+0018.035 (0) Table wp_term_taxonomy: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0018.053 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0018.067 (0) Table wp_termmeta: Total rows added: 0 in 0.01 seconds
+0018.070 (0) Table wp_termmeta: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_termmeta.table.gz - 0.4 KB)
+0018.452 (0) Table wp_terms: Total expected rows (approximate): 4
+0018.535 (0) Table wp_terms: Total rows added: 4 in 0.06 seconds
+0018.537 (0) Table wp_terms: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_terms.table.gz - 0.5 KB)
+0018.573 (0) Table wp_podsrel: Total expected rows (approximate): 0
+0018.588 (0) Table wp_podsrel: Total rows added: 0 in 0.01 seconds
+0018.591 (0) Table wp_podsrel: finishing file (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_podsrel.table.gz - 0.4 KB)
+0018.627 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_options.table.gz (1/13): adding to final database dump
+0018.660 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_users.table.gz (2/13): adding to final database dump
+0019.027 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_usermeta.table.gz (3/13): adding to final database dump
+0019.032 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_commentmeta.table.gz (4/13): adding to final database dump
+0019.037 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_comments.table.gz (5/13): adding to final database dump
+0019.042 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_links.table.gz (6/13): adding to final database dump
+0019.061 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_postmeta.table.gz (7/13): adding to final database dump
+0019.091 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_posts.table.gz (8/13): adding to final database dump
+0019.102 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_term_relationships.table.gz (9/13): adding to final database dump
+0019.112 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_term_taxonomy.table.gz (10/13): adding to final database dump
+0019.114 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_termmeta.table.gz (11/13): adding to final database dump
+0019.120 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_terms.table.gz (12/13): adding to final database dump
+0019.122 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db-table-wp_podsrel.table.gz (13/13): adding to final database dump
+0019.124 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db.gz: finished writing out complete database file (128 KB)
+0019.181 (0) Total database tables backed up: 13 (backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db.gz, size: 152095, sha256)
+0019.628 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.632 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0019.640 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0019.643 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-others.zip: others: This file has not yet been successfully uploaded: will queue
+0019.650 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.655 (0) Saving backup history. Total backup size: 35.2 MB
+0019.689 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0019.726 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0019.734 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a41882ca67232bebae82e7930209d16c)
+0020.440 (0) Google Drive: creating path: /UpdraftPlus
+0021.522 (0) Google Drive quota usage: used=7.1 MB, total=15360 MB, available=15352.9 MB
+0021.753 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip: Attempting to upload to Google Drive (into folder id: 1zvRZB9ofzFXuGojgdh2rf8HDNbk92I6j)
+0022.312 (0) Googledrive chunked upload: 9.3 % uploaded (1048576)
+0022.484 (0) Googledrive chunked upload: 18.6 % uploaded (2097152)
+0022.872 (0) Googledrive chunked upload: 27.9 % uploaded (3145728)
+0023.419 (0) Googledrive chunked upload: 37.2 % uploaded (4194304)
+0023.586 (0) Googledrive chunked upload: 46.5 % uploaded (5242880)
+0023.998 (0) Googledrive chunked upload: 55.8 % uploaded (6291456)
+0024.152 (0) Googledrive chunked upload: 65 % uploaded (7340032)
+0024.697 (0) Googledrive chunked upload: 74.3 % uploaded (8388608)
+0025.104 (0) Googledrive chunked upload: 83.6 % uploaded (9437184)
+0025.294 (0) Googledrive chunked upload: 92.9 % uploaded (10485760)
+0026.285 (0) Googledrive chunked upload: 100 % uploaded (10485760)
+0026.320 (0) OK: Archive backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip uploaded to Google Drive in 4.55 seconds
+0026.326 (0) Recording as successfully uploaded: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip
+0026.339 (0) Deleting local file: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-plugins.zip: OK
+0026.561 (0) Google Drive quota usage: used=17.9 MB, total=15360 MB, available=15342.1 MB
+0026.851 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip: Attempting to upload to Google Drive (into folder id: 1zvRZB9ofzFXuGojgdh2rf8HDNbk92I6j)
+0027.468 (0) Googledrive chunked upload: 9.3 % uploaded (1048576)
+0027.999 (0) Googledrive chunked upload: 18.5 % uploaded (2097152)
+0028.564 (0) Googledrive chunked upload: 27.8 % uploaded (3145728)
+0029.117 (0) Googledrive chunked upload: 37 % uploaded (4194304)
+0029.295 (0) Googledrive chunked upload: 46.3 % uploaded (5242880)
+0029.680 (0) Googledrive chunked upload: 55.5 % uploaded (6291456)
+0030.211 (0) Googledrive chunked upload: 64.8 % uploaded (7340032)
+0030.774 (0) Googledrive chunked upload: 74.1 % uploaded (8388608)
+0031.325 (0) Googledrive chunked upload: 83.3 % uploaded (9437184)
+0031.894 (0) Googledrive chunked upload: 92.6 % uploaded (10485760)
+0032.997 (0) Googledrive chunked upload: 100 % uploaded (10485760)
+0033.078 (0) OK: Archive backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip uploaded to Google Drive in 6.22 seconds
+0033.085 (0) Recording as successfully uploaded: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip
+0033.112 (0) Deleting local file: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-themes.zip: OK
+0033.334 (0) Google Drive quota usage: used=28.7 MB, total=15360 MB, available=15331.3 MB
+0033.586 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-uploads.zip: Attempting to upload to Google Drive (into folder id: 1zvRZB9ofzFXuGojgdh2rf8HDNbk92I6j)
+0034.189 (0) Googledrive chunked upload: 7.8 % uploaded (1048576)
+0034.397 (0) Googledrive chunked upload: 15.6 % uploaded (2097152)
+0034.814 (0) Googledrive chunked upload: 23.5 % uploaded (3145728)
+0035.011 (0) Googledrive chunked upload: 31.3 % uploaded (4194304)
+0035.395 (0) Googledrive chunked upload: 39.1 % uploaded (5242880)
+0035.587 (0) Googledrive chunked upload: 46.9 % uploaded (6291456)
+0036.034 (0) Googledrive chunked upload: 54.7 % uploaded (7340032)
+0036.249 (0) Googledrive chunked upload: 62.6 % uploaded (8388608)
+0037.212 (0) Googledrive chunked upload: 70.4 % uploaded (9437184)
+0037.377 (0) Googledrive chunked upload: 78.2 % uploaded (10485760)
+0037.789 (0) Googledrive chunked upload: 86 % uploaded (11534336)
+0038.374 (0) Googledrive chunked upload: 93.8 % uploaded (12582912)
+0039.541 (0) Googledrive chunked upload: 100 % uploaded (12582912)
+0039.595 (0) OK: Archive backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-uploads.zip uploaded to Google Drive in 6 seconds
+0039.601 (0) Recording as successfully uploaded: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-uploads.zip
+0039.615 (0) Deleting local file: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-uploads.zip: OK
+0039.892 (0) Google Drive quota usage: used=41.5 MB, total=15360 MB, available=15318.5 MB
+0040.102 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-others.zip: Attempting to upload to Google Drive (into folder id: 1zvRZB9ofzFXuGojgdh2rf8HDNbk92I6j)
+0041.242 (0) Googledrive chunked upload: 100 % uploaded
+0041.258 (0) OK: Archive backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-others.zip uploaded to Google Drive in 1.15 seconds
+0041.263 (0) Recording as successfully uploaded: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-others.zip
+0041.272 (0) Deleting local file: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-others.zip: OK
+0041.544 (0) Google Drive quota usage: used=42.1 MB, total=15360 MB, available=15317.9 MB
+0041.973 (0) backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db.gz: Attempting to upload to Google Drive (into folder id: 1zvRZB9ofzFXuGojgdh2rf8HDNbk92I6j)
+0043.670 (0) Googledrive chunked upload: 100 % uploaded
+0043.772 (0) OK: Archive backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db.gz uploaded to Google Drive in 1.79 seconds
+0043.777 (0) Recording as successfully uploaded: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db.gz
+0043.791 (0) Deleting local file: backup_2018-12-31-1338_GOLDEN_LOGDES_347b37b46284-db.gz: OK
+0043.807 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0043.815 (0) Number of backup sets in history: 1; groups (db): 1
+0043.821 (0) Examining (for databases) backup set with group_id=0, nonce=347b37b46284, datestamp=1546259886 (Dec 31 2018 12:38:06)
+0043.822 (0) This backup set is the backup set just made, so will not be deleted.
+0043.822 (0) Number of backup sets in history: 1; groups (files): 1
+0043.825 (0) Examining (for files) backup set with nonce=347b37b46284, datestamp=1546259886 (Dec 31 2018 12:38:06)
+0043.825 (0) This backup set is the backup set just made, so will not be deleted.
+0043.831 (0) This backup set is the backup set just made, so will not be deleted.
+0043.831 (0) This backup set is the backup set just made, so will not be deleted.
+0043.831 (0) This backup set is the backup set just made, so will not be deleted.
+0043.831 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0043.835 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0043.861 (0) Resume backup (347b37b46284, 0): finish run
+0044.274 (0) Decremented the semaphore (fd) by 1
+0044.284 (0) Semaphore (fd) unlocked
+0044.287 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0044.298 (0) The backup apparently succeeded and is now complete
+0044.302 (0) No email will/can be sent - the user has not configured an email address.
+0044.323 (0) La sauvegarde a réussie. Elle est maintenant terminée.
