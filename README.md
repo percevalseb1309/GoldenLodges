@@ -1,4 +1,2 @@
 # GoldenLodges
-
-## Website URL hosted online
-https://golden-lodges.000webhostapp.com
+__Website URL hosted online :__ https://golden-lodges.000webhostapp.com
