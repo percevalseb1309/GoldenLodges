@@ -2,7 +2,7 @@
 __Projet OpenClassrooms :__ Intégrez un thème Wordpress pour un client  
 __SiteWeb :__ https://golden-lodges.000webhostapp.com
 
-# Énoncé
+## Énoncé
 
 L'agence "Chalets et caviar" à Courchevel vous a missionné pour créer son site web. Elle possède une quinzaine de chalets de luxe à la vente ainsi que d'autres chalets de luxe en location.
 
