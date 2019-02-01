@@ -1,6 +1,6 @@
 # GoldenLodges
 __Projet OpenClassrooms :__ Intégrez un thème Wordpress pour un client  
-__SiteWeb :__ https://golden-lodges.000webhostapp.com
+__Site Web :__ https://golden-lodges.000webhostapp.com
 
 ## Énoncé
 
